@@ -1,0 +1,28 @@
+<?php
+
+echo "tipe data adalah klasifikasi data yang mengenalkan kompilator atau penerjemah bagaimana programmer bermaksud untuk menggunakan data <br>";
+	echo '<br>';
+echo "contoh tipe data antara lain: <br>";
+	echo "1. integer <br>";
+	echo "2. float <br>";
+	echo "3. string <br>";
+	echo "4. boolean <br>";
+	echo "5. char <br>";
+		echo '<br>';
+echo "aritmatika dalam pemograman adalah simbol atau indikator yang menandakan dibutuhnya operasi matematika, contohnya seperti penjumlahan, pengurangan, perkalian, pembagian, dll <br>";
+	echo '<br>';
+$a = 7;
+$b = 8;
+
+$jawaban1=$a + $b;
+$jawaban2=$a - $b;
+$jawaban3=$a * $b;
+$jawaban4=$a / $b;
+
+	echo '<br>';
+echo "a=7 dan b=8 <br>";
+echo "penjumlahan : $jawaban1 <br>";
+echo "pengurangan : $jawaban2 <br>";
+echo "perkalian : $jawaban3 <br>";
+echo "pembagian : $jawaban4 <br>";
+?>
